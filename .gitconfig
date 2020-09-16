@@ -1,0 +1,7 @@
+[http]
+	sslVerify = false
+[user]
+	name = cervantesj1509
+	email = javier.cervantes9@gmail.com
+[credential]
+	helper = store
